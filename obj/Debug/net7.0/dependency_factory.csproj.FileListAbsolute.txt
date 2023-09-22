@@ -1,0 +1,88 @@
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.csproj.AssemblyReference.cache
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.AssemblyInfoInputs.cache
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.AssemblyInfo.cs
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.csproj.CoreCompileInputs.cache
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory.exe
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory.deps.json
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory.runtimeconfig.json
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory.pdb
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Hosting.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.Console.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.csproj.CopyComplete
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/refint/dependency_factory.dll
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.pdb
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.genruntimeconfig.cache
+C:/Users/LongPhilippWyrsch/OneDrive - HSO/80_learning/DependencyInjection_FactoryPattern/dependency_factory/obj/Debug/net7.0/ref/dependency_factory.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory.deps.json
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory.runtimeconfig.json
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/dependency_factory.pdb
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Hosting.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.Console.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.EventLog.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Logging.EventSource.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.csproj.AssemblyReference.cache
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.AssemblyInfoInputs.cache
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.AssemblyInfo.cs
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.csproj.CoreCompileInputs.cache
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.csproj.CopyComplete
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/refint/dependency_factory.dll
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.pdb
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/dependency_factory.genruntimeconfig.cache
+/Users/long/Documents/080_coding_LOCAL/learn/CSharp/DI_factoryPattern/dependency_factory/obj/Debug/net7.0/ref/dependency_factory.dll
